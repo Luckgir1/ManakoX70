@@ -1,0 +1,60 @@
+.klava img{
+   margin-left: 280px;
+}
+.kamola fieldset{
+    margin-left: 700px;
+    width: 340px;
+    height: 340px;
+    margin-top: -580px;
+    border: solid rgb(219,219,219);
+}
+.kamola h1{
+    font-size: 40px;
+    margin-left: 95px;
+}
+.kamola input{
+    margin-left: 20px;
+    width: 350px;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: color white 5px;
+    border:  solid color white;
+}
+.kamola button{
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 360px;
+    height: 35px;
+    border:  solid skyblue;
+    border-radius:  9px;
+    background-color: skyblue;
+}
+.kamola p{
+    margin-left: 185px;
+    
+}
+.kama p{
+    margin-left: 120px;
+    
+}
+.komp p{
+margin-left: 150px;
+}
+.shaxrizoda fieldset{
+    margin-left: 700px;
+    width: 380px;
+    height: 60px;
+    margin-top: 10px;
+border: solid rgb(219,219,219);
+}
+.shaxrizoda p{
+    margin-left: 70px;
+}
+.container p{
+    margin-left: 840px;
+}
+.naame img{
+ width: 400px;
+ margin-left: 710px;
+ margin-top: -20px;
+}
